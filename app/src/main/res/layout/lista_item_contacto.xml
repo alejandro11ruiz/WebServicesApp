@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/viewNombre"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:hint="@string/nombre"
+        android:textSize="24dp"
+        android:text="" />
+
+    <TextView
+        android:id="@+id/viewProvincia"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:textSize="14dp"
+        android:hint="@string/provincia"
+        android:text=""/>
+
+    <TextView
+        android:id="@+id/viewMunicipio"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:hint="@string/municipio"
+        android:textSize="14dp"
+        android:text=""/>
+
+
+
+    <TextView
+        android:id="@+id/viewTelefono"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:hint="@string/telefono"
+        android:textSize="14dp"
+        android:text="" />
+
+    <TextView
+        android:id="@+id/viewCorreo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:hint="@string/correo"
+        android:textSize="14dp"
+        android:text="" />
+
+    <TextView
+        android:id="@+id/viewDireccion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:hint="@string/direccion"
+        android:textSize="14dp"
+        android:text="" />
+
+</LinearLayout>

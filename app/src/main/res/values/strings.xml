@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WebServicesApp</string>
+    <string name="provincia">provincia</string>
+    <string name="municipio">municipio</string>
+    <string name="nombre">nombre</string>
+    <string name="telefono">telefono</string>
+    <string name="correo">correo</string>
+    <string name="direccion">direccion</string>
+    <string name="enviar">Leer</string>
+    <string name="ver">Ver Lista</string>
+</resources>
